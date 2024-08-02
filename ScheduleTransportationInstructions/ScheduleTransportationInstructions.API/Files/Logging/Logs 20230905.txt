@@ -1,0 +1,8 @@
+2023-09-05T19:30:14.1214119+05:30 [WRN] (Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware) Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2023-09-05T19:30:29.7449468+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-09-05T19:30:29.8512704+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-09-05T19:30:29.8521010+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-09-05T19:30:30.8392095+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions" responded 200 in 3504.4642 ms
+2023-09-05T20:32:55.6659978+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.ScheduleTransporters.GetAll) GetAll method is called to get all Schedule Transportation Instructions
+2023-09-05T20:32:57.3949206+05:30 [ERR] (Infrastructure.Repository.ScheduleTransportRepository) retrieved all scheduled transports
+2023-09-05T20:32:57.4454584+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/schedule" responded 200 in 1857.2944 ms

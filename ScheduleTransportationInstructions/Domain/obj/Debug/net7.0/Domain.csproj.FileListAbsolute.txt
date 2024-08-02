@@ -1,0 +1,79 @@
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\demo projects\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\demo projects\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.dll
+D:\demo projects\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.pdb
+D:\demo projects\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\demo projects\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo projects\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\demo projects\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\demo projects\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\demo projects\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.dll
+D:\demo projects\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\demo projects\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.pdb
+D:\demo projects\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.dll
+D:\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.pdb
+D:\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.dll
+D:\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.pdb
+D:\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\bin\Debug\net7.0\Domain.pdb
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\Domain.pdb
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\Domain\obj\Debug\net7.0\ref\Domain.dll

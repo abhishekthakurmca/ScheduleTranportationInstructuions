@@ -1,0 +1,428 @@
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.Development.json
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.json
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.exe
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.deps.json
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.runtimeconfig.json
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.AssemblyReference.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfoInputs.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfo.cs
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CoreCompileInputs.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cs
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.ScheduleTransportationInstructions.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.build.ScheduleTransportationInstructions.API.props
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ScheduleTransportationInstructions.API.props
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ScheduleTransportationInstructions.API.props
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\scopedcss\bundle\ScheduleTransportationInstructions.API.styles.css
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CopyComplete
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\refint\ScheduleTransportationInstructions.API.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.genruntimeconfig.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ref\ScheduleTransportationInstructions.API.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Humanizer.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.Development.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.exe
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.deps.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.runtimeconfig.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\EFCore.NamingConventions.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Humanizer.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.AssemblyReference.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfoInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfo.cs
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CoreCompileInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cs
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.ScheduleTransportationInstructions.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.build.ScheduleTransportationInstructions.API.props
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ScheduleTransportationInstructions.API.props
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ScheduleTransportationInstructions.API.props
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\scopedcss\bundle\ScheduleTransportationInstructions.API.styles.css
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CopyComplete
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\refint\ScheduleTransportationInstructions.API.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.genruntimeconfig.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ref\ScheduleTransportationInstructions.API.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.Development.json
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.json
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.exe
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.deps.json
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.runtimeconfig.json
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\EFCore.NamingConventions.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Humanizer.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.pdb
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.pdb
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.pdb
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.AssemblyReference.cache
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfoInputs.cache
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfo.cs
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CoreCompileInputs.cache
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cs
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cache
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.ScheduleTransportationInstructions.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.build.ScheduleTransportationInstructions.API.props
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ScheduleTransportationInstructions.API.props
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ScheduleTransportationInstructions.API.props
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\scopedcss\bundle\ScheduleTransportationInstructions.API.styles.css
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CopyComplete
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\refint\ScheduleTransportationInstructions.API.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.genruntimeconfig.cache
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ref\ScheduleTransportationInstructions.API.dll
+D:\demo projects\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Ardalis.ApiEndpoints.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.Development.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.exe
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.deps.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.runtimeconfig.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Ardalis.ApiEndpoints.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\EFCore.NamingConventions.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Humanizer.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.AssemblyReference.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfoInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfo.cs
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CoreCompileInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cs
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.ScheduleTransportationInstructions.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.build.ScheduleTransportationInstructions.API.props
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ScheduleTransportationInstructions.API.props
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ScheduleTransportationInstructions.API.props
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\scopedcss\bundle\ScheduleTransportationInstructions.API.styles.css
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CopyComplete
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\refint\ScheduleTransportationInstructions.API.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.genruntimeconfig.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ref\ScheduleTransportationInstructions.API.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.exe
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.deps.json
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.runtimeconfig.json
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Ardalis.ApiEndpoints.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\EFCore.NamingConventions.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.AssemblyReference.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfoInputs.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfo.cs
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CoreCompileInputs.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.ScheduleTransportationInstructions.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.build.ScheduleTransportationInstructions.API.props
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ScheduleTransportationInstructions.API.props
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ScheduleTransportationInstructions.API.props
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\scopedcss\bundle\ScheduleTransportationInstructions.API.styles.css
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CopyComplete
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\refint\ScheduleTransportationInstructions.API.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.genruntimeconfig.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ref\ScheduleTransportationInstructions.API.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.Development.json
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.json
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.exe
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.deps.json
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.runtimeconfig.json
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Ardalis.ApiEndpoints.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\EFCore.NamingConventions.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Humanizer.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.pdb
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.pdb
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.pdb
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.AssemblyReference.cache
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfoInputs.cache
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfo.cs
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CoreCompileInputs.cache
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.ScheduleTransportationInstructions.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.build.ScheduleTransportationInstructions.API.props
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ScheduleTransportationInstructions.API.props
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ScheduleTransportationInstructions.API.props
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\scopedcss\bundle\ScheduleTransportationInstructions.API.styles.css
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CopyComplete
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\refint\ScheduleTransportationInstructions.API.dll
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.genruntimeconfig.cache
+D:\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ref\ScheduleTransportationInstructions.API.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.AssemblyReference.cache
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfoInputs.cache
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.AssemblyInfo.cs
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CoreCompileInputs.cache
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cs
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.MvcApplicationPartsAssemblyInfo.cache
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\refint\ScheduleTransportationInstructions.API.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.Development.json
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\appsettings.json
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.exe
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.deps.json
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.runtimeconfig.json
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\ScheduleTransportationInstructions.API.pdb
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Ardalis.ApiEndpoints.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\EFCore.NamingConventions.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Humanizer.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.dll
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Application.pdb
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Infrastructure.pdb
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\bin\Debug\net7.0\Domain.pdb
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.ScheduleTransportationInstructions.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.build.ScheduleTransportationInstructions.API.props
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ScheduleTransportationInstructions.API.props
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ScheduleTransportationInstructions.API.props
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\scopedcss\bundle\ScheduleTransportationInstructions.API.styles.css
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.csproj.CopyComplete
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ScheduleTransportationInstructions.API.genruntimeconfig.cache
+D:\demo projects\Create Instruction and Schedule it\ScheduleTransportationInstructions\ScheduleTransportationInstructions.API\obj\Debug\net7.0\ref\ScheduleTransportationInstructions.API.dll

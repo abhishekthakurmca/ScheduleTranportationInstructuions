@@ -1,0 +1,6 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\ScheduleTransportationInstructions\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\ScheduleTransportationInstructions\\Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\ScheduleTransportationInstructions\\Infrastructure",
+  "ScheduleTransportationInstructions.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\ScheduleTransportationInstructions\\ScheduleTransportationInstructions.API"
+}

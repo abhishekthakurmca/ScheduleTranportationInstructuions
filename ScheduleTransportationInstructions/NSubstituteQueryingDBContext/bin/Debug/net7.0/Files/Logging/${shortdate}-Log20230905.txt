@@ -1,0 +1,86 @@
+{"@t":"2023-09-05T09:30:22.2049541Z","@mt":"GetInstructions called to Get all instructions from database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:30:27.8738166Z","@mt":"Retrieved an Instruction by ID","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:30:41.6917757Z","@mt":"Retrieved an Instruction by ID","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:31:27.4044488Z","@mt":"Retrieved an Instruction by ID","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:36:05.9435750Z","@mt":"Retrieved an Instruction by ID","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:48:59.9912998Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:49:00.0084465Z","@mt":"New instruction added to the database.","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:50:59.3905310Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:50:59.4062218Z","@mt":"New instruction added to the database.","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:51:14.2169011Z","@mt":"GetInstructions called to Get all instructions from database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:51:15.0407245Z","@mt":"Retrieved an Instruction by ID","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:51:15.1640931Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:51:15.1641905Z","@mt":"New instruction added to the database.","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:53:13.8813587Z","@mt":"Deleted an Instruction","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:53:13.9569377Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:55:02.0594123Z","@mt":"Deleted an Instruction","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T09:55:02.1327172Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:10:45.2637709Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:10:45.2774557Z","@mt":"New instruction added to the database.","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:16:41.7790638Z","@mt":"GetInstructions called to Get all instructions from database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:17:41.8604289Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:17:41.8736753Z","@mt":"New instruction added to the database.","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:18:39.3404873Z","@mt":"GetInstructions called to Get all instructions from database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:18:40.2035293Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:18:40.2039698Z","@mt":"New instruction added to the database.","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:20:35.9203377Z","@mt":"Updating an existing Instruction","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:20:36.0296484Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:20:36.0587571Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:21:35.1802095Z","@mt":"Retrieved an Instruction by ID","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:21:54.9688022Z","@mt":"GetInstructions called to Get all instructions from database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:22:58.5326361Z","@mt":"GetInstructions called to Get all instructions from database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:22:59.3218045Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:22:59.3223340Z","@mt":"New instruction added to the database.","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:24:16.1900359Z","@mt":"Deleted an Instruction","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:24:16.2688980Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T10:36:14.6662824Z","@mt":"retrieved all scheduled transports","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:36:32.2474786Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:40:45.7113882Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:40:46.8263313Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:40:46.8509245Z","@mt":"retrieved all scheduled transports","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:40:46.8534369Z","@mt":"Deleting schedule transport with ID: 1...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:40:46.8721094Z","@mt":"Schedule transport not found.","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:41:27.4066873Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:41:57.7233216Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:42:29.0475166Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:42:52.3026498Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:43:53.2916006Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:45:17.4220238Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:47:21.0348930Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:51:04.3019840Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:51:10.2413661Z","@mt":"retrieved all scheduled transports","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:57:35.9066385Z","@mt":"retrieved all scheduled transports","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T10:57:51.2691789Z","@mt":"retrieved all scheduled transports","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:02:39.0848932Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:08:42.0449397Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:11:44.7644672Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:14:47.4061054Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:14:48.1280207Z","@mt":"Schedule transport added successfully.","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:16:03.2150504Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:16:03.9330105Z","@mt":"Schedule transport added successfully.","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:18:14.9474851Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:18:32.7476193Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:19:32.9013836Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:20:18.8767188Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:20:54.3245283Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:21:26.5988110Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:22:04.4125688Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T11:22:33.3416403Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:24:37.3853152Z","@mt":"retrieved all scheduled transports","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:24:46.6406597Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:24:55.0144395Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:24:55.7400850Z","@mt":"Schedule transport added successfully.","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:25:07.1029942Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:25:54.4194744Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:25:55.1262789Z","@mt":"Schedule transport added successfully.","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:35:33.2480384Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:35:33.8863421Z","@mt":"Schedule transport added successfully.","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:35:34.1597284Z","@mt":" retrieved a scheduled transport by ID","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:35:34.1703679Z","@mt":"retrieved all scheduled transports","@l":"Error","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:35:34.1717465Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:36:07.7703858Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:36:36.8971425Z","@mt":"Adding a new schedule transport...","SourceContext":"Infrastructure.Repository.ScheduleTransportRepository"}
+{"@t":"2023-09-05T12:38:53.1747027Z","@mt":"GetInstructions called to Get all instructions from database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T12:39:04.1458530Z","@mt":"Retrieved an Instruction by ID","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T12:39:21.8734651Z","@mt":"Saved changes to the database","SourceContext":"Infrastructure.Repository.InstructionRepository"}
+{"@t":"2023-09-05T12:39:21.8882416Z","@mt":"New instruction added to the database.","SourceContext":"Infrastructure.Repository.InstructionRepository"}

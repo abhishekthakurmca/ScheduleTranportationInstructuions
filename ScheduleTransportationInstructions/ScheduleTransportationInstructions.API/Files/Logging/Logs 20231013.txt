@@ -1,0 +1,84 @@
+2023-10-13T20:22:03.1076994+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:22:03.5101491+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:22:03.5118491+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:22:04.8929391+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.ScheduleTransporters.GetAll) GetAll method is called to get all Schedule Transportation Instructions
+2023-10-13T20:22:06.9208764+05:30 [ERR] (Infrastructure.Repository.ScheduleTransportRepository) retrieved all scheduled transports
+2023-10-13T20:22:06.9744281+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 4026.7874 ms
+2023-10-13T20:22:06.9744282+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/schedule" responded 200 in 2089.3301 ms
+2023-10-13T20:22:07.5081139+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:22:07.5086034+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:22:07.5087016+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:22:07.5700495+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 66.1400 ms
+2023-10-13T20:22:57.1853920+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.ScheduleTransporters.GetAll) GetAll method is called to get all Schedule Transportation Instructions
+2023-10-13T20:22:57.2239492+05:30 [ERR] (Infrastructure.Repository.ScheduleTransportRepository) retrieved all scheduled transports
+2023-10-13T20:22:57.2251314+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/schedule" responded 200 in 39.9712 ms
+2023-10-13T20:23:11.2437287+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:23:11.2449680+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:23:11.2450186+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:23:11.2496976+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 6.1160 ms
+2023-10-13T20:23:31.4403678+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:23:31.4404704+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:23:31.4405126+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:23:31.4443870+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 4.1525 ms
+2023-10-13T20:32:51.2777445+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:32:51.2779761+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:32:51.2780104+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:32:51.3474095+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 69.8614 ms
+2023-10-13T20:32:56.3139588+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:32:56.3141679+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:32:56.3141973+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:32:56.5816005+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 267.7633 ms
+2023-10-13T20:33:01.6119781+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.ScheduleTransporters.GetAll) GetAll method is called to get all Schedule Transportation Instructions
+2023-10-13T20:33:01.6398112+05:30 [ERR] (Infrastructure.Repository.ScheduleTransportRepository) retrieved all scheduled transports
+2023-10-13T20:33:01.6408952+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/schedule" responded 200 in 29.0517 ms
+2023-10-13T20:33:02.4848378+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:33:02.4849696+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:33:02.4849859+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:33:02.4884226+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 3.7994 ms
+2023-10-13T20:33:06.2076055+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:33:06.2076929+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:33:06.2077076+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:33:06.2120172+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 4.5448 ms
+2023-10-13T20:33:08.8697677+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:33:08.8698606+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:33:08.8698833+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:33:08.8735551+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 4.0950 ms
+2023-10-13T20:33:10.9702614+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:33:10.9703576+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:33:10.9703900+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:33:10.9737296+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 3.5797 ms
+2023-10-13T20:39:30.7242552+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:39:30.7243983+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:39:30.7244127+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:39:30.7907436+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 66.6785 ms
+2023-10-13T20:39:31.9251860+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.ScheduleTransporters.GetAll) GetAll method is called to get all Schedule Transportation Instructions
+2023-10-13T20:39:31.9531911+05:30 [ERR] (Infrastructure.Repository.ScheduleTransportRepository) retrieved all scheduled transports
+2023-10-13T20:39:31.9544488+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/schedule" responded 200 in 29.4027 ms
+2023-10-13T20:39:47.1680451+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:39:47.1681386+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:39:47.1681519+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:39:47.1725566+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 4.6592 ms
+2023-10-13T20:39:54.6446800+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "OPTIONS" "/api/instructions/27" responded 204 in 0.7984 ms
+2023-10-13T20:39:54.6581304+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.Delete) Delete method is called to delete a Instruction with her product
+2023-10-13T20:39:54.6899048+05:30 [INF] (Infrastructure.Repository.InstructionRepository) Retrieved an Instruction by ID
+2023-10-13T20:39:54.6901752+05:30 [INF] (Application.Common.CQRS.Instructions.Commands.DeleteInstructionHandler) Handling DeleteInstructionCommand Application.Common.CQRS.Instructions.Commands.DeleteInstructionCommand
+2023-10-13T20:39:54.7259692+05:30 [INF] (Infrastructure.Repository.InstructionRepository) Deleted an Instruction
+2023-10-13T20:39:54.8734232+05:30 [INF] (Infrastructure.Repository.InstructionRepository) Saved changes to the database
+2023-10-13T20:39:54.8802322+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "DELETE" "/api/instructions/27" responded 200 in 230.9473 ms
+2023-10-13T20:39:57.1041358+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.ScheduleTransporters.GetAll) GetAll method is called to get all Schedule Transportation Instructions
+2023-10-13T20:39:57.1275292+05:30 [ERR] (Infrastructure.Repository.ScheduleTransportRepository) retrieved all scheduled transports
+2023-10-13T20:39:57.1284734+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/schedule" responded 200 in 24.4524 ms
+2023-10-13T20:40:15.7451341+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:40:15.7452330+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:40:15.7452468+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:40:15.7492545+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 4.2460 ms
+2023-10-13T20:40:19.2316087+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.ScheduleTransporters.GetAll) GetAll method is called to get all Schedule Transportation Instructions
+2023-10-13T20:40:19.2573167+05:30 [ERR] (Infrastructure.Repository.ScheduleTransportRepository) retrieved all scheduled transports
+2023-10-13T20:40:19.2582608+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/schedule" responded 200 in 26.8489 ms
+2023-10-13T20:40:22.9326497+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.Instruction.GetAll) Get All method is called to get all Instructions
+2023-10-13T20:40:22.9327253+05:30 [INF] (Application.Common.CQRS.Instructions.Query.GetInstructionListHandler) Calling Repository method GetInstructions()
+2023-10-13T20:40:22.9327429+05:30 [INF] (Infrastructure.Repository.InstructionRepository) GetInstructions called to Get all instructions from database
+2023-10-13T20:40:22.9363694+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/instructions/" responded 200 in 3.8367 ms
+2023-10-13T20:40:26.4310248+05:30 [INF] (ScheduleTransportationInstructions.API.Endpoints.ScheduleTransporters.GetAll) GetAll method is called to get all Schedule Transportation Instructions
+2023-10-13T20:40:26.4533118+05:30 [ERR] (Infrastructure.Repository.ScheduleTransportRepository) retrieved all scheduled transports
+2023-10-13T20:40:26.4543197+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/schedule" responded 200 in 23.4229 ms

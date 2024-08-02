@@ -1,0 +1,102 @@
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.deps.json
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.AssemblyReference.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CopyComplete
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\refint\Test.dll
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.pdb
+D:\RequirementAugust\Custom Created\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\ref\Test.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.deps.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.AssemblyReference.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CopyComplete
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\refint\Test.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\ref\Test.dll
+D:\demo projects\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.deps.json
+D:\demo projects\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.dll
+D:\demo projects\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.pdb
+D:\demo projects\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.dll
+D:\demo projects\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.dll
+D:\demo projects\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.pdb
+D:\demo projects\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.pdb
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.AssemblyReference.cache
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CopyComplete
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.dll
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\refint\Test.dll
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.pdb
+D:\demo projects\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\ref\Test.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.deps.json
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.AssemblyReference.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CopyComplete
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\refint\Test.dll
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.pdb
+D:\PostgreSQL\CQRS and MediatR with Clean Architecture\Clean Architecture\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\ref\Test.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.deps.json
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.AssemblyReference.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CopyComplete
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\refint\Test.dll
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.pdb
+C:\Users\Dotnet\Downloads\Latest 4th sept\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\ref\Test.dll
+D:\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.deps.json
+D:\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.dll
+D:\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Test.pdb
+D:\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.dll
+D:\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.dll
+D:\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Application.pdb
+D:\ScheduleTransportationInstructions\Test\bin\Debug\net7.0\Domain.pdb
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.AssemblyReference.cache
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.csproj.CopyComplete
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.dll
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\refint\Test.dll
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\Test.pdb
+D:\ScheduleTransportationInstructions\Test\obj\Debug\net7.0\ref\Test.dll
