@@ -1,0 +1,79 @@
+.navbar {
+    background: #ffffff !important;
+    box-shadow: 0 3px 5px -1px #0003, 0 6px 10px #00000024, 0 1px 18px #0000001f;
+    padding: 10px 50px !important;
+}
+
+body {
+    background: #f3f3f9 !important;
+}
+.pt20{padding-top: 20px;}
+.custom_card_header {
+    display: flex;
+    justify-content: space-between;
+    background: #ffffff !important;
+    border-bottom: 1px solid #dddddd;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.custom_card_header h4 {
+    margin: 0;
+}
+
+.card {
+    border: 1px solid #dddddd;
+    box-shadow: 0 1px 2px rgba(56,65,74,.15);
+}
+
+.theme_btn .dx-button-content, .theme_btn .dx-button-content:hover {
+    background: #0ab39c !important;
+    padding: 6px 12px !important;
+    color: #ffffff;
+    min-width: 100px;
+    font-size: 13px;
+    box-shadow:  0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+}
+.dx-datagrid-text-content {
+    color: #4a4a4a;
+    font-weight: 600;
+}
+
+.dx-header-row .dx-datagrid-action {
+    text-align: left !important;
+}
+
+.dx-column-lines td {
+    text-align: left !important;
+}
+
+.dx-master-detail-cell {
+    background: #f3f3f9 !important;
+}
+.dx-header-row {
+    background: #f1f1f1;
+    border-bottom: 3px solid #dddddd;
+}
+.dx-link-edit {
+    background: #daf4f0;
+    padding: 3px 7px;
+    color: #099885 !important;
+    font-weight: 600;
+    text-decoration: none !important;
+    font-size: 13px;
+    border-radius: 3px;
+}
+
+.dx-link-delete {
+    background: #fde8e4;
+    padding: 3px 7px;
+    color: red !important;
+    font-weight: 600;
+    text-decoration: none !important;
+    font-size: 13px;
+    border-radius: 3px;
+}
+
+.newinstruction_btn .dx-button + .dx-button {
+    margin-left: 10px !important;
+}

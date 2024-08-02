@@ -1,0 +1,79 @@
+<div class="card">
+    <div class="card-header custom_card_header">
+        <h4 class="card-title">Instructions</h4>
+        <div class="theme_btn">
+            <dx-button text="New" (onClick)="newInstruction()"></dx-button>
+        </div>
+    </div>
+    <div class="card-body">
+        <dx-data-grid [dataSource]="instructionList" [showBorders]="true" (onEditingStart)="selectionChanged($event)"
+        (onSaving)="onSaving($event)"
+        (onEditCanceling)="onCancelClick()">
+        <dxo-paging [pageSize]="10"></dxo-paging>
+        <dxo-pager [showInfo]="true" [visible]="true" [showPageSizeSelector]="true" [allowedPageSizes]="[10, 25, 50, 100]"></dxo-pager>
+    
+    
+        <dxo-editing mode="popup" [allowUpdating]="allowUpdatingandDeleting" [allowDeleting]="allowUpdatingandDeleting">
+    
+            <dxo-form>
+                <dxi-item itemType="group" caption="Client detail">
+                    <dxi-item dataField="instructionDate" caption="Instruction Date" dataType="date"></dxi-item>
+                    <dxi-item dataField="clientName" disabled="true" caption="Client Name" dataType="string"></dxi-item>
+                    <dxi-item dataField="pickupAddress" dataType="string"></dxi-item>
+                    <dxi-item dataField="deliveryAddress" dataType="string"></dxi-item>
+                    <dxi-item dataField="clientRef" disabled="true" dataType="string"></dxi-item>
+                    <dxi-item dataField="billingRef" disabled="true" dataType="string"></dxi-item>
+                    <dxi-item dataField="status" disabled="true" dataType="string"></dxi-item>
+                </dxi-item>
+    
+    
+                <dxi-item itemType="group" caption="PRODUCTS LIST ">
+                    <div id="myGrid">
+                        <dx-data-grid [dataSource]="productList" [showBorders]="true">
+                            <dxo-paging [enabled]="true"></dxo-paging>
+                            <dxo-editing mode="row" [allowUpdating]="true" [allowDeleting]="true">
+                            </dxo-editing>
+                            <dxi-column dataField="productCode" caption="Product Code" [allowEditing]="false"></dxi-column>
+                            <dxi-column dataField="productDescription" caption="Product Discription"
+                                [allowEditing]="false"></dxi-column>
+                            <dxi-column dataField="qty" caption="Qty"></dxi-column>
+                        </dx-data-grid>
+                    </div>
+                </dxi-item>
+            </dxo-form>
+        </dxo-editing>
+    
+    
+        <dxo-search-panel [visible]="true" [highlightCaseSensitive]="true"></dxo-search-panel>
+        <dxi-column dataField="instructionDate" caption="Instruction Date" dataType="date"
+            [allowEditing]="false"></dxi-column>
+        <dxi-column dataField="clientName" caption="Client Name" dataType="string"></dxi-column>
+        <dxi-column dataField="pickupAddress" dataType="string"></dxi-column>
+        <dxi-column dataField="deliveryAddress" dataType="string"></dxi-column>
+        <dxi-column dataField="clientRef" dataType="string"></dxi-column>
+        <dxi-column dataField="billingRef" dataType="string"></dxi-column>
+        <dxi-column dataField="status" dataType="string"></dxi-column>
+        <dxo-master-detail [enabled]="true" [autoExpandAll]="false" [template]="'detail'">
+        </dxo-master-detail>
+        <div *dxTemplate="let detailData of 'detail'">
+            <dx-data-grid [dataSource]="detailData.data.products">
+                <dxi-column dataField="productId" caption="Product ID"></dxi-column>
+                <dxi-column dataField="productCode" caption="Product Code"></dxi-column>
+                <dxi-column dataField="productDescription" caption="Product Description"></dxi-column>
+                <dxi-column dataField="qty" caption="Qty"></dxi-column>
+            </dx-data-grid>
+        </div>
+    </dx-data-grid>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+

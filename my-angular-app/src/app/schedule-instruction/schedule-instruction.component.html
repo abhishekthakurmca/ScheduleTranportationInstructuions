@@ -1,0 +1,52 @@
+
+<div class="card">
+    <div class="card-header custom_card_header">
+        <h4 class="card-title">Schedule Instruction</h4>
+        <div class="">
+            
+        </div>
+    </div>
+    <div class="card-body">
+        <dx-data-grid [dataSource]="instructionList" [showBorders]="true" style=" height: 500px;">
+            <dxo-paging [pageSize]="10"></dxo-paging>
+            <dxo-pager [showInfo]="true" [visible]="true" [showPageSizeSelector]="true"
+                [allowedPageSizes]="[10, 25, 50, 100]"></dxo-pager>
+            <dxo-search-panel [visible]="true" [highlightCaseSensitive]="true"></dxo-search-panel>
+            <dxi-column dataField="instructionDate" caption="Instruction Date" dataType="date"
+                [allowEditing]="false"></dxi-column>
+            <dxi-column dataField="clientName" caption="Client Name" dataType="string" [allowEditing]="false"></dxi-column>
+            <dxi-column dataField="pickupAddress" dataType="string" [allowEditing]="false"></dxi-column>
+            <dxi-column dataField="deliveryAddress" dataType="string" [allowEditing]="false"></dxi-column>
+            <dxi-column dataField="clientRef" dataType="string" [allowEditing]="false"></dxi-column>
+            <dxi-column dataField="status" dataType="string" [allowEditing]="false"></dxi-column>
+        
+            <dxo-master-detail [enabled]="true" [autoExpandAll]="true" [template]="'detail'">
+            </dxo-master-detail>
+        
+            <div *dxTemplate="let detailData of 'detail'">
+                <dx-data-grid [dataSource]="detailData.data.products">
+                    <dxo-editing mode="popup" [allowUpdating]="allowUpdating">
+                    </dxo-editing>
+                    <dxi-column dataField="productId" [allowEditing]="false" caption="Product ID"></dxi-column>
+                    <dxi-column dataField="productCode" [allowEditing]="false" caption="Product Code"></dxi-column>
+                    <dxi-column dataField="productDescription" [allowEditing]="false" caption="Product Description"></dxi-column>
+                    <dxi-column dataField="qty" [allowEditing]="false" caption="Qty"></dxi-column>
+                    <dxi-column dataField="dateScheduled" caption="Date Scheduled" dataType="date"></dxi-column>
+                    <!-- <dxi-column dataField="transporter" caption="Transporter"></dxi-column> -->
+                    <dxi-column dataField="transporter" alignment="center" caption="Transporter">
+                        <dxo-lookup [dataSource]="transporterList"></dxo-lookup>
+                    </dxi-column>
+                </dx-data-grid>
+            </div>
+        </dx-data-grid>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+

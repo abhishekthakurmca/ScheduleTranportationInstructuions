@@ -1,0 +1,70 @@
+
+
+<div class="card">
+    <div class="card-header custom_card_header">
+        <h4 class="card-title">New Instruction</h4>
+        <div class="">
+            
+        </div>
+    </div>
+    <div class="card-body">
+        <dx-form [formData]="formData" [colCount]="2">
+
+   
+
+
+            <dxi-item itemType="group" caption="CLIENT">
+                <dxi-item dataField="client" editorType="dxSelectBox" [editorOptions]="{ items: clientList,  
+                    displayExpr: 'Name',  
+                    valueExpr: 'Name', onValueChanged:handleClientValueChanged  }"></dxi-item>
+                <dxi-item dataField="clientRef" caption="Client Ref" disabled="true"></dxi-item>
+                <dxi-item dataField="billingRef" caption="Billing Ref" disabled="true"></dxi-item>
+                <dxi-item *ngIf="formData.status != ''" dataField="status" caption="Status"></dxi-item>
+            </dxi-item>
+            <dxi-item itemType="group" caption="ADDRESS">
+                <dxi-item itemType="tabbed">
+                    <dxo-tab-panel-options [height]="200">
+                    </dxo-tab-panel-options>
+                    <dxi-tab title="PickUp">
+                        <dxi-item dataField="pickUpAddress"caption="PickUp Address"></dxi-item>
+                    </dxi-tab>
+                    <dxi-tab title="Delivery">
+                        <dxi-item dataField="deliveryAddress"caption="Delivery Address"></dxi-item>
+                    </dxi-tab>
+                </dxi-item>
+            </dxi-item>
+            <dxi-item itemType="group" caption="PRODUCT DETAIL">
+                <dxi-item dataField="product" editorType="dxSelectBox" [editorOptions]="{ items: productList,  
+                    displayExpr: 'product',  
+                    valueExpr: 'productCode', 
+                    onValueChanged:handleProductValueChanged  }"></dxi-item>
+                <dxi-item dataField="productCode" caption="Product Code" disabled="true"></dxi-item>
+                <dxi-item dataField="productDiscription" caption="Product Discription"disabled="true"></dxi-item>
+                <dxi-item dataField="qty" [editorOptions]="{ showSpinButtons: true, mode: 'number' , min: 0 }"></dxi-item>
+                <dxi-item>
+                    <dx-button type="success" text="ADD" (onClick)="AddProduct()">
+                    </dx-button>
+                </dxi-item>
+            </dxi-item>
+            <dxi-item itemType="group" caption="PRODUCTS">
+                <dx-data-grid [showBorders]="true" [dataSource]="selectedProductList">
+                    <dxo-paging [enabled]="true"></dxo-paging>
+                    <dxo-editing mode="row" [allowUpdating]="true" [allowDeleting]="true">
+                    </dxo-editing>
+                    <dxi-column dataField="productCode" caption="Product Code" [allowEditing]="false"></dxi-column>
+                    <dxi-column dataField="productDescription" caption="Product Description" [allowEditing]="false"></dxi-column>
+                    <dxi-column dataField="qty" caption="Qty"></dxi-column>
+                </dx-data-grid>
+            </dxi-item>
+            <dxi-item class="newinstruction_btn">
+                <dx-button type="success" text="SUBMIT" (onClick)="Submit()">
+                </dx-button>
+                <dx-button type="danger" text="CANCEL" (onClick)="navigate()">
+                </dx-button>
+            </dxi-item>
+        </dx-form>
+    </div>
+</div>
+
+
+
